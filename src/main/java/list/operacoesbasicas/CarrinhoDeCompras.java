@@ -34,6 +34,6 @@ public class CarrinhoDeCompras {
 
     public static void main(String[] args) {
         CarrinhoDeCompras carrinhoDeCompras = new CarrinhoDeCompras();
-        
+
     }
 }
